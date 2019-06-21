@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to create custom date filter with drop down ASPxCalendar
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4928/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to implement date filtering by its display text using the "Contains" operator. A user can enter "01" and find all first days of all Januaries of all years.<br />
